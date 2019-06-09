@@ -1,0 +1,2 @@
+# Drop the ID_INPUT_KEY as otherwise Qt will start tracking touch as keyboard with QEvdevKeyboardHandler
+KERNEL=="event*", SUBSYSTEM=="input", ATTRS{name}=="clearpad", ENV{ID_INPUT_KEY}="0"

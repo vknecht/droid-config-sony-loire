@@ -1,0 +1,6 @@
+#/usr/share/ssu/board-mappings.d/10-f5121.ini
+#/usr/share/ssu/board-mappings.d/10-f5122.ini
+/etc/ofono/ril_subscription.d/dual-sim.conf
+/etc/dconf/db/vendor.d/jolla-camera-hw-suzu.txt
+/etc/dconf/db/vendor.d/lipstick-configs-suzu.txt
+/etc/dconf/db/vendor.d/silica-configs-suzu.txt

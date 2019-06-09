@@ -1,0 +1,5 @@
+#/usr/share/ssu/board-mappings.d/10-f5121.ini
+#/usr/share/ssu/board-mappings.d/10-f5321.ini
+/etc/dconf/db/vendor.d/jolla-camera-hw-kugo.txt
+/etc/dconf/db/vendor.d/lipstick-configs-kugo.txt
+/etc/dconf/db/vendor.d/silica-configs-kugo.txt
