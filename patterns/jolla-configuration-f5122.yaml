@@ -17,7 +17,7 @@ Requires:
 
 - sailfish-content-graphics-z@ICON_RES@
 
-- jolla-settings-system-nfc
+# jolla-settings-system-nfc
 - jolla-settings-system-flashlight
 - jolla-settings-networking-multisim
 
