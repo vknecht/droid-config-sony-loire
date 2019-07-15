@@ -1,0 +1,6 @@
+# Sensor service
+service sensors /odm/bin/sensors.qcom
+    class core
+    user system
+    group system
+
