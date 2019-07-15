@@ -18,7 +18,7 @@ Requires:
 - ofono-ril-binder-plugin
 
 # NFC
-- nfcd-binder-plugin
+# nfcd-binder-plugin
 
 # Sensors
 - hybris-libsensorfw-qt5
